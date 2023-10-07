@@ -1,0 +1,1 @@
+const NodeHelper = require("node_helper");

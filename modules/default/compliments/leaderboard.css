@@ -1,0 +1,10 @@
+.MMM-Leaderboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.MMM-Leaderboard td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
